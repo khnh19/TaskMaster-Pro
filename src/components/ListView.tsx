@@ -23,8 +23,6 @@ import {
   Edit as EditIcon,
   Delete as DeleteIcon,
   MoreVert as MoreIcon,
-  PlayArrow as StartIcon,
-  Check as CompleteIcon,
   Search as SearchIcon,
   Add as AddIcon,
   FilterList as FilterIcon,
